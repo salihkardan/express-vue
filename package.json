@@ -1,0 +1,15 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "express test ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "vuex": "^3.0.1"
+  }
+}
